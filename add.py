@@ -1,4 +1,4 @@
 a=0
 greet="Hello World"
-while x>=10:
+while a>=10:
   print(greet)
